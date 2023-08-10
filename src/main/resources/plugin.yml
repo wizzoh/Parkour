@@ -1,0 +1,9 @@
+name: Parkour
+version: '${project.version}'
+main: me.wizzo.parkour.Parkour
+authors: [wizzo]
+description: Parkour system
+api-version: '1.13'
+commands:
+  parkour:
+    description: parkour command
